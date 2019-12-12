@@ -13,8 +13,6 @@ c080d6ca00b7        nginx                               "nginx -g 'daemon of…"
 ``` 
 $ docker ps -a
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS                    NAMES
-f514761ef215        php:5.6.32-fpm      "docker-php-entrypoi…"   10 months ago       Exited (255) 3 hours ago   9000/tcp                 arkku2_php_1
-ce3e554f69a4        mysql:5.7.20        "docker-entrypoint.s…"   10 months ago       Exited (255) 3 hours ago   0.0.0.0:3306->3306/tcp   arkku2_mysql_1
 ```
 
 ### 1.3
